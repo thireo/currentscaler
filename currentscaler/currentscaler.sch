@@ -300,36 +300,10 @@ Wire Wire Line
 Wire Wire Line
 	9700 4450 9350 4450
 Wire Wire Line
-	9700 4450 9800 4450
+	9700 4450 10200 4450
 Connection ~ 9700 4450
 Wire Wire Line
-	9700 5900 9825 5900
-$Comp
-L Connector:TestPoint TP3
-U 1 1 5CAAF213
-P 9800 4450
-AR Path="/5CAAF213" Ref="TP3"  Part="1" 
-AR Path="/5C9A6AC0/5CAAF213" Ref="TP?"  Part="1" 
-F 0 "TP3" V 9754 4637 50  0000 L CNN
-F 1 "OUT_P" V 9845 4637 50  0000 L CNN
-F 2 "TestPoint:TestPoint_THTPad_D4.0mm_Drill2.0mm" H 10000 4450 50  0001 C CNN
-F 3 "~" H 10000 4450 50  0001 C CNN
-	1    9800 4450
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:TestPoint TP4
-U 1 1 5CAAF21A
-P 9825 5900
-AR Path="/5CAAF21A" Ref="TP4"  Part="1" 
-AR Path="/5C9A6AC0/5CAAF21A" Ref="TP?"  Part="1" 
-F 0 "TP4" V 9779 6087 50  0000 L CNN
-F 1 "OUT_N" V 9870 6087 50  0000 L CNN
-F 2 "TestPoint:TestPoint_THTPad_D4.0mm_Drill2.0mm" H 10025 5900 50  0001 C CNN
-F 3 "~" H 10025 5900 50  0001 C CNN
-	1    9825 5900
-	0    1    1    0   
-$EndComp
+	9700 5900 10200 5900
 Wire Wire Line
 	7550 4450 9150 4450
 Connection ~ 7550 4450
@@ -391,32 +365,6 @@ F 3 "~" H 5175 4375 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5425 4375 5275 4375
-$Comp
-L Connector:TestPoint TP1
-U 1 1 5CAAF242
-P 1050 3550
-AR Path="/5CAAF242" Ref="TP1"  Part="1" 
-AR Path="/5C9A6AC0/5CAAF242" Ref="TP?"  Part="1" 
-F 0 "TP1" V 1245 3624 50  0000 C CNN
-F 1 "IN_P" V 1154 3624 50  0000 C CNN
-F 2 "TestPoint:TestPoint_THTPad_D4.0mm_Drill2.0mm" H 1250 3550 50  0001 C CNN
-F 3 "~" H 1250 3550 50  0001 C CNN
-	1    1050 3550
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:TestPoint TP2
-U 1 1 5CAAF249
-P 1075 5150
-AR Path="/5CAAF249" Ref="TP2"  Part="1" 
-AR Path="/5C9A6AC0/5CAAF249" Ref="TP?"  Part="1" 
-F 0 "TP2" V 1270 5224 50  0000 C CNN
-F 1 "IN_N" V 1179 5224 50  0000 C CNN
-F 2 "TestPoint:TestPoint_THTPad_D4.0mm_Drill2.0mm" H 1275 5150 50  0001 C CNN
-F 3 "~" H 1275 5150 50  0001 C CNN
-	1    1075 5150
-	0    -1   -1   0   
-$EndComp
 Connection ~ 4900 5900
 Wire Wire Line
 	3375 5900 4375 5900
@@ -482,8 +430,6 @@ $EndComp
 Wire Wire Line
 	1375 3550 1375 3650
 Wire Wire Line
-	1050 3550 1375 3550
-Wire Wire Line
 	1375 5150 1850 5150
 Wire Wire Line
 	1850 4525 1850 5150
@@ -540,8 +486,6 @@ Wire Wire Line
 Wire Wire Line
 	2050 3425 2050 3775
 Connection ~ 2050 3775
-Wire Wire Line
-	1075 5150 1375 5150
 Connection ~ 1375 5150
 Wire Wire Line
 	1375 3850 1375 5150
@@ -837,4 +781,38 @@ Wire Wire Line
 	4925 1575 4925 1675
 Text Notes 5625 1500 0    50   ~ 0
 CHANGE TO MAX44246 TO SUPPORT 9V
+$Comp
+L athir:RS677-8759 CON1
+U 1 1 5C9E8BAB
+P 925 4300
+F 0 "CON1" H 1003 4346 50  0000 L CNN
+F 1 "RS677-8759" H 1003 4255 50  0000 L CNN
+F 2 "athir:6778759" H 925 4300 50  0001 C CNN
+F 3 "" H 925 4300 50  0001 C CNN
+	1    925  4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L athir:RS677-8759 CON2
+U 1 1 5C9E8C1B
+P 10200 5150
+F 0 "CON2" H 10278 5196 50  0000 L CNN
+F 1 "RS677-8759" H 10278 5105 50  0000 L CNN
+F 2 "athir:6778759" H 10200 5150 50  0001 C CNN
+F 3 "" H 10200 5150 50  0001 C CNN
+	1    10200 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10200 5500 10200 5900
+Wire Wire Line
+	10200 4800 10200 4450
+Wire Wire Line
+	925  3950 925  3550
+Wire Wire Line
+	925  3550 1375 3550
+Wire Wire Line
+	925  4650 925  5150
+Wire Wire Line
+	925  5150 1375 5150
 $EndSCHEMATC
