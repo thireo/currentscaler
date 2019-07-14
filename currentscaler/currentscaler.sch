@@ -261,7 +261,7 @@ Wire Wire Line
 Wire Wire Line
 	6550 4350 6550 4475
 Wire Wire Line
-	6550 4475 6100 4475
+	6550 4475 6350 4475
 Connection ~ 6100 4475
 Wire Wire Line
 	6350 5900 4900 5900
@@ -305,7 +305,7 @@ Connection ~ 9700 4450
 Wire Wire Line
 	9700 5900 10200 5900
 Wire Wire Line
-	7550 4450 9150 4450
+	7550 4450 8125 4450
 Connection ~ 7550 4450
 Wire Wire Line
 	9700 5000 9700 5900
@@ -364,7 +364,7 @@ F 3 "~" H 5175 4375 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5425 4375 5275 4375
+	5425 4375 5350 4375
 Connection ~ 4900 5900
 Wire Wire Line
 	3375 5900 4375 5900
@@ -863,6 +863,116 @@ F 1 "+5V" H 5915 4948 50  0000 C CNN
 F 2 "" H 5900 4775 50  0001 C CNN
 F 3 "" H 5900 4775 50  0001 C CNN
 	1    5900 4775
+	1    0    0    -1  
+$EndComp
+$Comp
+L athir:MAX44246 U4
+U 1 1 5CF03F30
+P 6375 3175
+F 0 "U4" H 6500 3640 50  0000 C CNN
+F 1 "MAX44246" H 6500 3549 50  0000 C CNN
+F 2 "athir:uMAX8" H 6375 3175 50  0001 C CNN
+F 3 "" H 6375 3175 50  0001 C CNN
+	1    6375 3175
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6050 3275 6050 3350
+Wire Wire Line
+	6050 3275 6125 3275
+Wire Wire Line
+	6125 3175 5350 3175
+Wire Wire Line
+	5350 3175 5350 4375
+Connection ~ 5350 4375
+Wire Wire Line
+	5350 4375 5275 4375
+Wire Wire Line
+	6125 3075 4975 3075
+Wire Wire Line
+	4975 3075 4975 4575
+Wire Wire Line
+	4975 4575 5325 4575
+Connection ~ 5325 4575
+Wire Wire Line
+	6125 2975 5875 2975
+Wire Wire Line
+	5875 2975 5875 3575
+Wire Wire Line
+	5875 3575 6350 3575
+Wire Wire Line
+	6950 3575 6950 3275
+Wire Wire Line
+	6950 3275 6875 3275
+Wire Wire Line
+	6350 3575 6350 4475
+Connection ~ 6350 3575
+Wire Wire Line
+	6350 3575 6950 3575
+Connection ~ 6350 4475
+Wire Wire Line
+	6350 4475 6100 4475
+Wire Wire Line
+	6875 3175 7025 3175
+Wire Wire Line
+	7025 3175 7025 3675
+Wire Wire Line
+	7025 3675 6675 3675
+Wire Wire Line
+	6675 3675 6675 4550
+Wire Wire Line
+	6675 4550 6775 4550
+Connection ~ 6775 4550
+Wire Wire Line
+	6875 3075 8125 3075
+Wire Wire Line
+	8125 3075 8125 4450
+Connection ~ 8125 4450
+Wire Wire Line
+	8125 4450 9150 4450
+$Comp
+L Device:C_Small C7
+U 1 1 5CF2FFED
+P 7100 2975
+AR Path="/5CF2FFED" Ref="C7"  Part="1" 
+AR Path="/5C9A6AC0/5CF2FFED" Ref="C?"  Part="1" 
+F 0 "C7" V 6871 2975 50  0000 C CNN
+F 1 "100nF" V 6962 2975 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 7100 2975 50  0001 C CNN
+F 3 "~" H 7100 2975 50  0001 C CNN
+	1    7100 2975
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7000 2975 6875 2975
+$Comp
+L power:GND #PWR?
+U 1 1 5CF36EC3
+P 7250 3175
+AR Path="/5C9A6AC0/5CF36EC3" Ref="#PWR?"  Part="1" 
+AR Path="/5CF36EC3" Ref="#PWR0118"  Part="1" 
+F 0 "#PWR0118" H 7250 2925 50  0001 C CNN
+F 1 "GND" H 7255 3002 50  0000 C CNN
+F 2 "" H 7250 3175 50  0001 C CNN
+F 3 "" H 7250 3175 50  0001 C CNN
+	1    7250 3175
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7250 3175 7250 2975
+Wire Wire Line
+	7250 2975 7200 2975
+$Comp
+L power:GND #PWR0119
+U 1 1 5CF3D8DD
+P 6050 3350
+AR Path="/5CF3D8DD" Ref="#PWR0119"  Part="1" 
+AR Path="/5C9A6AC0/5CF3D8DD" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0119" H 6050 3100 50  0001 C CNN
+F 1 "GND" H 6055 3177 50  0000 C CNN
+F 2 "" H 6050 3350 50  0001 C CNN
+F 3 "" H 6050 3350 50  0001 C CNN
+	1    6050 3350
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
