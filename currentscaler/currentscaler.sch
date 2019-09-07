@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:currentscaler-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -276,7 +276,7 @@ P 9250 4450
 AR Path="/5CAAF200" Ref="R14"  Part="1" 
 AR Path="/5C9A6AC0/5CAAF200" Ref="R?"  Part="1" 
 F 0 "R14" V 9054 4450 50  0000 C CNN
-F 1 "100" V 9145 4450 50  0000 C CNN
+F 1 "220" V 9145 4450 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9250 4450 50  0001 C CNN
 F 3 "~" H 9250 4450 50  0001 C CNN
 	1    9250 4450
@@ -329,7 +329,7 @@ P 3275 5900
 AR Path="/5CAAF22B" Ref="R6"  Part="1" 
 AR Path="/5C9A6AC0/5CAAF22B" Ref="R?"  Part="1" 
 F 0 "R6" V 3079 5900 50  0000 C CNN
-F 1 "100" V 3170 5900 50  0000 C CNN
+F 1 "220" V 3170 5900 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 3275 5900 50  0001 C CNN
 F 3 "~" H 3275 5900 50  0001 C CNN
 	1    3275 5900
@@ -357,7 +357,7 @@ P 5175 4375
 AR Path="/5CAAF23A" Ref="R8"  Part="1" 
 AR Path="/5C9A6AC0/5CAAF23A" Ref="R?"  Part="1" 
 F 0 "R8" V 4979 4375 50  0000 C CNN
-F 1 "100" V 5070 4375 50  0000 C CNN
+F 1 "220" V 5070 4375 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5175 4375 50  0001 C CNN
 F 3 "~" H 5175 4375 50  0001 C CNN
 	1    5175 4375
@@ -367,7 +367,7 @@ Wire Wire Line
 	5425 4375 5350 4375
 Connection ~ 4900 5900
 Wire Wire Line
-	3375 5900 4375 5900
+	3375 5900 3700 5900
 $Comp
 L Device:R_Small R1
 U 1 1 5CAAF252
@@ -428,25 +428,25 @@ F 3 "" H 2325 3525 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1375 3550 1375 3650
+	1375 3550 1375 3600
 Wire Wire Line
 	1375 5150 1850 5150
 Wire Wire Line
-	1850 4525 1850 5150
+	1850 4525 1850 4600
 Connection ~ 1850 5150
 Wire Wire Line
 	1850 5150 4375 5150
 Wire Wire Line
-	2050 4100 2050 4250
+	2050 4100 2050 4175
 Wire Wire Line
 	2050 4250 1850 4250
 Wire Wire Line
-	1850 4250 1850 4325
+	1850 4250 1850 4300
 Wire Wire Line
 	1850 4250 1850 3625
 Connection ~ 1850 4250
 Wire Wire Line
-	2050 3900 2050 3775
+	2050 3900 2050 3825
 Wire Wire Line
 	1850 3625 2225 3625
 Wire Wire Line
@@ -488,7 +488,7 @@ Wire Wire Line
 Connection ~ 2050 3775
 Connection ~ 1375 5150
 Wire Wire Line
-	1375 3850 1375 5150
+	1375 3850 1375 3900
 NoConn ~ 2225 3325
 $Comp
 L Device:R_Small R2
@@ -713,9 +713,9 @@ F 3 "" H 4925 2050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4925 1975 4925 2050
+	4925 1975 4925 2000
 Wire Wire Line
-	4925 1575 4925 1675
+	4925 1575 4925 1625
 Text Notes 5625 1500 0    50   ~ 0
 CHANGE TO MAX44246 TO SUPPORT 9V
 $Comp
@@ -944,7 +944,7 @@ F 3 "~" H 7100 2975 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	7000 2975 6875 2975
+	7000 2975 6950 2975
 $Comp
 L power:GND #PWR?
 U 1 1 5CF36EC3
@@ -975,4 +975,140 @@ F 3 "" H 6050 3350 50  0001 C CNN
 	1    6050 3350
 	1    0    0    -1  
 $EndComp
+$Comp
+L power:+5V #PWR0120
+U 1 1 5D67C582
+P 6950 2975
+F 0 "#PWR0120" H 6950 2825 50  0001 C CNN
+F 1 "+5V" H 6965 3148 50  0000 C CNN
+F 2 "" H 6950 2975 50  0001 C CNN
+F 3 "" H 6950 2975 50  0001 C CNN
+	1    6950 2975
+	1    0    0    -1  
+$EndComp
+Connection ~ 6950 2975
+Wire Wire Line
+	6950 2975 6875 2975
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 5D689DB2
+P 3700 5800
+F 0 "#FLG0102" H 3700 5875 50  0001 C CNN
+F 1 "PWR_FLAG" H 3700 5974 50  0000 C CNN
+F 2 "" H 3700 5800 50  0001 C CNN
+F 3 "~" H 3700 5800 50  0001 C CNN
+	1    3700 5800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 5800 3700 5900
+Connection ~ 3700 5900
+Wire Wire Line
+	3700 5900 4375 5900
+$Comp
+L Device:Battery_Cell BT2
+U 1 1 5D71A940
+P 4650 1875
+F 0 "BT2" H 4768 1971 50  0000 L CNN
+F 1 "Battery_Cell" H 4768 1880 50  0000 L CNN
+F 2 "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical" V 4650 1935 50  0001 C CNN
+F 3 "~" V 4650 1935 50  0001 C CNN
+	1    4650 1875
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4650 1675 4650 1625
+Wire Wire Line
+	4650 1625 4925 1625
+Connection ~ 4925 1625
+Wire Wire Line
+	4925 1625 4925 1675
+Wire Wire Line
+	4925 2000 4650 2000
+Wire Wire Line
+	4650 2000 4650 1975
+Connection ~ 4925 2000
+Wire Wire Line
+	4925 2000 4925 2050
+$Comp
+L Device:R_Small R16
+U 1 1 5D72A754
+P 2200 4425
+AR Path="/5D72A754" Ref="R16"  Part="1" 
+AR Path="/5C9A6AC0/5D72A754" Ref="R?"  Part="1" 
+F 0 "R16" H 2259 4471 50  0000 L CNN
+F 1 "10m .05%" H 2259 4380 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 2200 4425 50  0001 C CNN
+F 3 "~" H 2200 4425 50  0001 C CNN
+	1    2200 4425
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R17
+U 1 1 5D72AA4C
+P 2250 4000
+AR Path="/5D72AA4C" Ref="R17"  Part="1" 
+AR Path="/5C9A6AC0/5D72AA4C" Ref="R?"  Part="1" 
+F 0 "R17" H 2309 4046 50  0000 L CNN
+F 1 "10 .05%" H 2309 3955 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 2250 4000 50  0001 C CNN
+F 3 "~" H 2250 4000 50  0001 C CNN
+	1    2250 4000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2250 3900 2250 3825
+Wire Wire Line
+	2250 3825 2050 3825
+Connection ~ 2050 3825
+Wire Wire Line
+	2050 3825 2050 3775
+Wire Wire Line
+	2250 4100 2250 4175
+Wire Wire Line
+	2250 4175 2050 4175
+Connection ~ 2050 4175
+Wire Wire Line
+	2050 4175 2050 4250
+Wire Wire Line
+	2200 4525 2200 4600
+Wire Wire Line
+	2200 4600 1850 4600
+Connection ~ 1850 4600
+Wire Wire Line
+	1850 4600 1850 5150
+Wire Wire Line
+	2200 4325 2200 4300
+Wire Wire Line
+	2200 4300 1850 4300
+Connection ~ 1850 4300
+Wire Wire Line
+	1850 4300 1850 4325
+$Comp
+L Device:R_Small R15
+U 1 1 5D749A96
+P 1225 3750
+AR Path="/5D749A96" Ref="R15"  Part="1" 
+AR Path="/5C9A6AC0/5D749A96" Ref="R?"  Part="1" 
+F 0 "R15" H 1284 3796 50  0000 L CNN
+F 1 "10k .05%" H 1284 3705 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 1225 3750 50  0001 C CNN
+F 3 "~" H 1225 3750 50  0001 C CNN
+	1    1225 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1225 3650 1225 3600
+Wire Wire Line
+	1225 3600 1375 3600
+Connection ~ 1375 3600
+Wire Wire Line
+	1375 3600 1375 3650
+Wire Wire Line
+	1375 3900 1225 3900
+Wire Wire Line
+	1225 3900 1225 3850
+Connection ~ 1375 3900
+Wire Wire Line
+	1375 3900 1375 5150
 $EndSCHEMATC
