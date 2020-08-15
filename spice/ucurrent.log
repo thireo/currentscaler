@@ -1,0 +1,2894 @@
+Circuit: * C:\Gits\CurrentScaler\spice\ucurrent.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 99.5682%
+Source Step = 99.0535%
+Source Step = 99.1719%
+Source Step = 99.2902%
+Source Step = 99.4086%
+Source Step = 99.527%
+vernier = 0.00585938
+Source Step = 99.669%
+Source Step = 99.8466%
+Source Step = 99.9931%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 28.0303%
+vernier = 0.0625
+Source Step = 27.2934%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 88.6364%
+Source Step = 96.2121%
+Source Step = 98.4848%
+Source Step = 100%
+Source Step = 99.1894%
+Source Step = 99.6629%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 58.3333%
+Source Step = 65.9091%
+Source Step = 73.4848%
+Source Step = 81.0606%
+Source Step = 88.6364%
+Source Step = 96.2121%
+vernier = 0.375
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Terminal Gmin changed to 1e-16
+Gmin = 1.37296e-16
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Terminal Gmin changed to 1e-16
+Gmin = 1.37296e-16
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 25.7576%
+Source Step = 33.3333%
+Source Step = 40.9091%
+Source Step = 48.4848%
+Source Step = 56.0606%
+vernier = 0.375
+Source Step = 64.0152%
+Source Step = 75.3788%
+Source Step = 86.7424%
+Source Step = 98.1061%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 23.4848%
+Source Step = 31.0606%
+Source Step = 38.6364%
+Source Step = 46.2121%
+Source Step = 53.7879%
+vernier = 0.375
+Source Step = 62.1212%
+Source Step = 73.4848%
+Source Step = 84.8485%
+Source Step = 88.2576%
+Source Step = 91.0985%
+Source Step = 93.9394%
+Source Step = 96.7803%
+Source Step = 99.6212%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 51.5152%
+Source Step = 59.0909%
+Source Step = 66.6667%
+Source Step = 74.2424%
+Source Step = 81.8182%
+Source Step = 85.7955%
+Source Step = 87.6894%
+Source Step = 89.5833%
+Source Step = 91.4773%
+Source Step = 93.3712%
+vernier = 0.09375
+Source Step = 95.6439%
+Source Step = 98.4848%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 40.1515%
+Source Step = 47.7273%
+Source Step = 55.303%
+Source Step = 62.8788%
+Source Step = 70.4545%
+vernier = 0.375
+Source Step = 81.0606%
+Source Step = 92.4242%
+Source Step = 97.5379%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 49.2424%
+Source Step = 56.8182%
+Source Step = 64.3939%
+Source Step = 71.9697%
+Source Step = 77.6515%
+Source Step = 79.5455%
+Source Step = 81.4394%
+Source Step = 83.3333%
+Source Step = 85.2273%
+vernier = 0.09375
+Source Step = 87.2159%
+Source Step = 90.0568%
+Source Step = 92.8977%
+Source Step = 95.7386%
+Source Step = 98.5795%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 42.4242%
+Source Step = 50%
+Source Step = 57.5758%
+Source Step = 65.1515%
+Source Step = 72.7273%
+vernier = 0.375
+Source Step = 80.1136%
+Source Step = 82.9545%
+Source Step = 85.7955%
+Source Step = 88.6364%
+Source Step = 91.4773%
+vernier = 0.140625
+Source Step = 94.4602%
+Source Step = 98.7216%
+Source Step = 99.6392%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 53.7879%
+Source Step = 61.3636%
+Source Step = 68.9394%
+Source Step = 76.5152%
+Source Step = 84.0909%
+vernier = 0.375
+Source Step = 92.4242%
+vernier = 0.09375
+Source Step = 94.1288%
+Source Step = 96.9697%
+Source Step = 99.8106%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 23.4848%
+Source Step = 31.0606%
+Source Step = 38.6364%
+Source Step = 46.2121%
+Source Step = 53.7879%
+vernier = 0.375
+Source Step = 62.1212%
+Source Step = 73.4848%
+Source Step = 78.5985%
+Source Step = 81.4394%
+Source Step = 84.2803%
+Source Step = 87.1212%
+Source Step = 89.9621%
+vernier = 0.140625
+Source Step = 93.5133%
+Source Step = 97.7746%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Terminal Gmin changed to 1e-16
+Gmin = 1.37296e-16
+Terminal Gmin changed to 1e-17
+Gmin = 2.30344e-17
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 25.7576%
+Source Step = 28.5985%
+Source Step = 30.4924%
+Source Step = 32.3864%
+Source Step = 34.2803%
+Source Step = 36.1742%
+vernier = 0.09375
+Source Step = 38.6364%
+Source Step = 41.4773%
+Source Step = 44.3182%
+Source Step = 47.1591%
+Source Step = 50%
+vernier = 0.140625
+Source Step = 53.5511%
+Source Step = 57.8125%
+Source Step = 62.0739%
+Source Step = 66.3352%
+Source Step = 70.5966%
+vernier = 0.210938
+Source Step = 75.7102%
+Source Step = 82.1023%
+Source Step = 84.0199%
+Source Step = 85.6179%
+Source Step = 87.2159%
+Source Step = 88.8139%
+Source Step = 90.4119%
+vernier = 0.0791016
+Source Step = 92.5692%
+Source Step = 94.9663%
+Source Step = 97.3633%
+Source Step = 99.7603%
+Source Step = 99.9888%
+Source Step = 100%
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 753.576 ms.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+vernier = 0.5
+vernier = 0.25
+Gmin = 2.98209e-14
+vernier = 0.333333
+vernier = 0.166667
+vernier = 0.222222
+Gmin = 2.01443e-14
+vernier = 0.111111
+vernier = 0.0555555
+vernier = 0.0277778
+vernier = 0.0138889
+vernier = 0.00694444
+vernier = 0.00347222
+vernier = 0.00173611
+Gmin = 1.80797e-14
+vernier = 0.000868055
+vernier = 0.000434028
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 4.41593 s.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.48857e-14
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 5.60344 s.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Terminal Gmin changed to 1e-16
+Gmin = 1.37296e-16
+Terminal Gmin changed to 1e-17
+Gmin = 2.30344e-17
+vernier = 0.5
+vernier = 0.25
+Gmin = 1.0318e-17
+Terminal Gmin changed to 1e-18
+vernier = 0.125
+Gmin = 8.08129e-18
+vernier = 0.166667
+vernier = 0.222222
+vernier = 0.111111
+Gmin = 5.81117e-18
+vernier = 0.148148
+vernier = 0.074074
+Gmin = 4.79579e-18
+vernier = 0.0987653
+vernier = 0.0493827
+Gmin = 4.14149e-18
+vernier = 0.0658435
+vernier = 0.0877914
+Gmin = 3.50831e-18
+vernier = 0.117055
+vernier = 0.0585276
+Gmin = 2.90733e-18
+vernier = 0.0780367
+Gmin = 2.44294e-18
+vernier = 0.104049
+vernier = 0.138732
+Gmin = 1.82713e-18
+vernier = 0.0693659
+vernier = 0.0924879
+Gmin = 1.58319e-18
+vernier = 0.123317
+vernier = 0.164423
+Gmin = 1.16297e-18
+vernier = 0.0822114
+vernier = 0.109615
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 40.1515%
+Source Step = 47.7273%
+Source Step = 55.303%
+Source Step = 62.8788%
+Source Step = 70.4545%
+vernier = 0.375
+Source Step = 81.0606%
+Source Step = 92.4242%
+Source Step = 100%
+Source Step = 100%
+Source Step = 99.6392%
+Source Step = 99.0653%
+Source Step = 99.2429%
+Source Step = 99.4205%
+Source Step = 99.598%
+Source Step = 99.7756%
+vernier = 0.00878906
+Source Step = 99.9798%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 25.7576%
+Source Step = 28.0303%
+Source Step = 29.9242%
+Source Step = 31.8182%
+Source Step = 33.7121%
+Source Step = 35.6061%
+vernier = 0.09375
+Source Step = 38.1629%
+Source Step = 41.0038%
+Source Step = 43.8447%
+Source Step = 46.6856%
+Source Step = 49.5265%
+vernier = 0.140625
+Source Step = 53.2197%
+Source Step = 57.4811%
+Source Step = 61.7424%
+Source Step = 66.0038%
+Source Step = 70.2652%
+vernier = 0.210938
+Source Step = 75.5919%
+Source Step = 81.9839%
+Source Step = 88.3759%
+Source Step = 94.768%
+Source Step = 99.0414%
+Source Step = 100%
+vernier = 0.0032959
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Terminal Gmin changed to 1e-16
+Gmin = 1.37296e-16
+Terminal Gmin changed to 1e-17
+Gmin = 2.30344e-17
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.37036e-17
+vernier = 0.166667
+vernier = 0.0833333
+Gmin = 1.10446e-17
+vernier = 0.111111
+Terminal Gmin changed to 1e-18
+Gmin = 8.99175e-18
+vernier = 0.148148
+vernier = 0.197531
+Gmin = 6.08664e-18
+vernier = 0.263374
+vernier = 0.131687
+Gmin = 4.34123e-18
+vernier = 0.0658435
+vernier = 0.0877914
+Gmin = 3.74864e-18
+vernier = 0.117055
+vernier = 0.156073
+Gmin = 2.84318e-18
+vernier = 0.0780367
+vernier = 0.104049
+Gmin = 2.42026e-18
+vernier = 0.0520245
+vernier = 0.0693659
+Gmin = 2.13656e-18
+vernier = 0.0924879
+vernier = 0.046244
+Gmin = 1.84108e-18
+vernier = 0.0616586
+Gmin = 1.60415e-18
+vernier = 0.0822114
+vernier = 0.109615
+vernier = 0.0548076
+Gmin = 1.38169e-18
+vernier = 0.0730768
+vernier = 0.0974357
+Gmin = 1.16159e-18
+vernier = 0.129914
+Terminal Gmin changed to 1e-19
+Gmin = 9.35726e-19
+vernier = 0.173219
+vernier = 0.230959
+Gmin = 6.08362e-19
+vernier = 0.307945
+vernier = 0.153972
+Gmin = 4.02927e-19
+vernier = 0.205296
+vernier = 0.102648
+vernier = 0.0513241
+Gmin = 3.37702e-19
+vernier = 0.0684321
+vernier = 0.0912428
+Gmin = 2.81455e-19
+vernier = 0.121657
+vernier = 0.0608285
+Gmin = 2.26446e-19
+vernier = 0.0811047
+Gmin = 1.89934e-19
+vernier = 0.10814
+vernier = 0.144186
+Gmin = 1.42638e-19
+vernier = 0.192248
+vernier = 0.096124
+vernier = 0.048062
+Gmin = 1.19442e-19
+vernier = 0.0640826
+Gmin = 1.03923e-19
+vernier = 0.0854435
+Terminal Gmin changed to 1e-20
+vernier = 0.113925
+Gmin = 8.76063e-20
+vernier = 0.0569623
+vernier = 0.0759497
+Gmin = 7.78667e-20
+vernier = 0.101266
+vernier = 0.0506331
+Gmin = 6.53524e-20
+vernier = 0.0675108
+Gmin = 5.62079e-20
+vernier = 0.0900144
+vernier = 0.120019
+vernier = 0.0600096
+Gmin = 4.77391e-20
+vernier = 0.0800128
+vernier = 0.0400064
+Gmin = 4.25896e-20
+vernier = 0.0533418
+vernier = 0.0711224
+Gmin = 3.72247e-20
+vernier = 0.0948299
+vernier = 0.0474149
+Gmin = 3.15872e-20
+vernier = 0.0632199
+Gmin = 2.75341e-20
+vernier = 0.0842932
+vernier = 0.112391
+Gmin = 2.20098e-20
+vernier = 0.0561954
+vernier = 0.0749272
+Gmin = 1.92383e-20
+vernier = 0.099903
+Gmin = 1.54045e-20
+vernier = 0.133204
+vernier = 0.066602
+Gmin = 1.24451e-20
+vernier = 0.0888026
+vernier = 0.0444013
+Gmin = 1.07875e-20
+vernier = 0.0592017
+Terminal Gmin changed to 1e-21
+Gmin = 9.69694e-21
+vernier = 0.0789356
+vernier = 0.105247
+Gmin = 7.95049e-21
+vernier = 0.14033
+vernier = 0.0701649
+Gmin = 6.68449e-21
+vernier = 0.0935532
+vernier = 0.124738
+Gmin = 5.21512e-21
+vernier = 0.166317
+vernier = 0.0831584
+Gmin = 4.0393e-21
+vernier = 0.0415792
+vernier = 0.0554389
+Gmin = 3.6556e-21
+vernier = 0.0739185
+Gmin = 3.0998e-21
+vernier = 0.098558
+vernier = 0.131411
+Gmin = 2.35371e-21
+vernier = 0.175214
+vernier = 0.0876071
+Gmin = 1.77985e-21
+vernier = 0.116809
+vernier = 0.0584047
+Gmin = 1.55124e-21
+vernier = 0.0778729
+vernier = 0.103831
+vernier = 0.0519153
+Gmin = 1.31274e-21
+vernier = 0.0692203
+Gmin = 1.12959e-21
+vernier = 0.0922938
+Terminal Gmin changed to 1e-22
+Gmin = 9.46501e-22
+vernier = 0.123058
+vernier = 0.0615292
+Gmin = 7.88751e-22
+vernier = 0.0820389
+vernier = 0.0410194
+Gmin = 6.98131e-22
+vernier = 0.0546926
+vernier = 0.0729234
+Gmin = 6.08128e-22
+vernier = 0.0972312
+Gmin = 4.89809e-22
+vernier = 0.129642
+vernier = 0.0648208
+Gmin = 3.97943e-22
+vernier = 0.0864277
+vernier = 0.115237
+Gmin = 3.20247e-22
+vernier = 0.153649
+vernier = 0.0768245
+Gmin = 2.6491e-22
+vernier = 0.102433
+vernier = 0.136577
+Gmin = 2.01931e-22
+vernier = 0.182102
+vernier = 0.242803
+Gmin = 1.31783e-22
+vernier = 0.323738
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 42.4242%
+Source Step = 50%
+Source Step = 57.5758%
+Source Step = 60.9848%
+Source Step = 62.8788%
+Source Step = 64.7727%
+Source Step = 66.6667%
+Source Step = 68.5606%
+vernier = 0.09375
+Source Step = 70.928%
+Source Step = 73.7689%
+Source Step = 76.6098%
+Source Step = 79.4508%
+Source Step = 82.2917%
+vernier = 0.140625
+Source Step = 84.6354%
+Source Step = 85.7008%
+Source Step = 86.7661%
+Source Step = 87.8314%
+Source Step = 88.8968%
+vernier = 0.0527344
+Source Step = 90.0154%
+Source Step = 91.6134%
+Source Step = 93.2114%
+Source Step = 94.8094%
+Source Step = 96.4074%
+Source Step = 98.0054%
+vernier = 0.0791016
+Source Step = 99.983%
+Source Step = 99.0242%
+Source Step = 99.0616%
+Source Step = 99.0991%
+Source Step = 99.1365%
+Source Step = 99.174%
+vernier = 0.00185394
+Source Step = 99.2227%
+Source Step = 99.2789%
+Source Step = 99.335%
+Source Step = 99.3912%
+Source Step = 99.4474%
+vernier = 0.00278091
+Source Step = 99.5176%
+Source Step = 99.6019%
+Source Step = 99.6862%
+Source Step = 99.7704%
+Source Step = 99.8547%
+vernier = 0.00417137
+Source Step = 99.9558%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 4.67122 s.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Terminal Gmin changed to 1e-16
+Gmin = 1.37296e-16
+Terminal Gmin changed to 1e-17
+Gmin = 2.30344e-17
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.81038e-17
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.68822e-17
+vernier = 0.0416667
+vernier = 0.0555555
+Gmin = 1.51945e-17
+vernier = 0.074074
+Gmin = 1.28799e-17
+vernier = 0.0987653
+vernier = 0.0493827
+Gmin = 1.11231e-17
+vernier = 0.0658435
+vernier = 0.0329218
+Gmin = 1.02074e-17
+vernier = 0.0438957
+Terminal Gmin changed to 1e-18
+vernier = 0.0585276
+Gmin = 9.28663e-18
+vernier = 0.0292638
+vernier = 0.0390184
+Gmin = 8.65545e-18
+vernier = 0.0520245
+Gmin = 7.70466e-18
+vernier = 0.0693659
+vernier = 0.034683
+vernier = 0.046244
+Gmin = 7.04825e-18
+vernier = 0.0616586
+Gmin = 6.16458e-18
+vernier = 0.0822114
+vernier = 0.109615
+vernier = 0.0548076
+Gmin = 5.30074e-18
+vernier = 0.0274038
+vernier = 0.0365384
+Gmin = 4.98498e-18
+vernier = 0.0487178
+vernier = 0.0649571
+Gmin = 4.4389e-18
+vernier = 0.0324786
+Gmin = 4.06188e-18
+vernier = 0.0433047
+vernier = 0.0577396
+Gmin = 3.5956e-18
+vernier = 0.0769862
+vernier = 0.0384931
+Gmin = 3.17605e-18
+vernier = 0.0513241
+vernier = 0.0684321
+Gmin = 2.81074e-18
+vernier = 0.0342161
+Gmin = 2.5599e-18
+vernier = 0.0456214
+vernier = 0.0228107
+Gmin = 2.37787e-18
+vernier = 0.0304143
+vernier = 0.0405523
+Gmin = 2.20165e-18
+vernier = 0.0540698
+Gmin = 1.95092e-18
+vernier = 0.072093
+vernier = 0.096124
+vernier = 0.048062
+Gmin = 1.67135e-18
+vernier = 0.0640826
+vernier = 0.0320413
+Gmin = 1.5251e-18
+vernier = 0.0427217
+vernier = 0.0569623
+Gmin = 1.37746e-18
+vernier = 0.0759497
+vernier = 0.0379749
+Gmin = 1.24757e-18
+vernier = 0.0506331
+vernier = 0.0675108
+Gmin = 1.09785e-18
+vernier = 0.0337554
+vernier = 0.0450072
+Gmin = 1.01229e-18
+Terminal Gmin changed to 1e-19
+vernier = 0.0600096
+Gmin = 9.18789e-19
+vernier = 0.0800128
+Gmin = 7.68667e-19
+vernier = 0.106684
+vernier = 0.0533418
+vernier = 0.0711224
+Gmin = 6.82354e-19
+vernier = 0.0948299
+vernier = 0.0474149
+Gmin = 6.03115e-19
+vernier = 0.0632199
+vernier = 0.0842932
+Gmin = 5.09624e-19
+vernier = 0.112391
+vernier = 0.0561954
+Gmin = 4.40361e-19
+vernier = 0.0749272
+vernier = 0.0374636
+Gmin = 3.95709e-19
+vernier = 0.0499515
+vernier = 0.066602
+Gmin = 3.46317e-19
+vernier = 0.033301
+vernier = 0.0444013
+Gmin = 3.23195e-19
+vernier = 0.0592017
+vernier = 0.0296009
+Gmin = 3.00252e-19
+vernier = 0.0394678
+vernier = 0.0526237
+vernier = 0.0263119
+Gmin = 2.77573e-19
+vernier = 0.0350825
+Gmin = 2.56586e-19
+vernier = 0.0467766
+vernier = 0.0233883
+Gmin = 2.40672e-19
+vernier = 0.0311844
+vernier = 0.0415792
+Gmin = 2.20407e-19
+vernier = 0.0554389
+vernier = 0.0739185
+Gmin = 1.91633e-19
+vernier = 0.0369593
+Gmin = 1.73237e-19
+vernier = 0.049279
+vernier = 0.0657053
+Gmin = 1.50811e-19
+vernier = 0.0876071
+vernier = 0.0438035
+Gmin = 1.33826e-19
+vernier = 0.0584047
+vernier = 0.0292024
+Gmin = 1.22223e-19
+vernier = 0.0389365
+vernier = 0.0519153
+Gmin = 1.10762e-19
+vernier = 0.0692203
+Terminal Gmin changed to 1e-20
+Gmin = 9.82167e-20
+vernier = 0.0346102
+vernier = 0.0461469
+Gmin = 9.14118e-20
+vernier = 0.0615292
+vernier = 0.0820389
+Gmin = 7.82757e-20
+vernier = 0.0410194
+vernier = 0.0546926
+Gmin = 7.04596e-20
+vernier = 0.0729234
+vernier = 0.0364617
+Gmin = 6.23608e-20
+vernier = 0.0486156
+Gmin = 5.61015e-20
+vernier = 0.0648208
+vernier = 0.0864277
+Gmin = 4.7205e-20
+vernier = 0.0432138
+vernier = 0.0216069
+vernier = 0.0288092
+Gmin = 4.62744e-20
+vernier = 0.0384123
+Gmin = 4.2459e-20
+vernier = 0.0512164
+vernier = 0.0682884
+Gmin = 3.67629e-20
+vernier = 0.0910512
+vernier = 0.121402
+Gmin = 2.92474e-20
+vernier = 0.0607008
+vernier = 0.0303504
+Gmin = 2.67247e-20
+vernier = 0.0404672
+vernier = 0.0539563
+Gmin = 2.4267e-20
+vernier = 0.0719417
+Gmin = 2.07593e-20
+vernier = 0.0359708
+vernier = 0.0479611
+Gmin = 1.92668e-20
+vernier = 0.0639481
+vernier = 0.0852641
+Gmin = 1.63986e-20
+vernier = 0.113685
+vernier = 0.0568427
+Gmin = 1.40479e-20
+vernier = 0.0757903
+vernier = 0.101054
+vernier = 0.0505268
+Gmin = 1.22024e-20
+vernier = 0.0673691
+Gmin = 1.05419e-20
+vernier = 0.0898255
+vernier = 0.0449127
+Terminal Gmin changed to 1e-21
+Gmin = 9.80435e-21
+vernier = 0.0598836
+vernier = 0.0798448
+Gmin = 8.50288e-21
+vernier = 0.0399224
+vernier = 0.0532299
+Gmin = 7.67525e-21
+vernier = 0.0709731
+Gmin = 6.57953e-21
+vernier = 0.0946308
+vernier = 0.0473154
+Gmin = 5.81717e-21
+vernier = 0.0630872
+vernier = 0.0841162
+vernier = 0.0420581
+Gmin = 5.18621e-21
+vernier = 0.0560775
+vernier = 0.0280387
+Gmin = 4.81994e-21
+vernier = 0.037385
+vernier = 0.0498466
+Gmin = 4.36145e-21
+vernier = 0.0249233
+vernier = 0.0332311
+Gmin = 4.12443e-21
+vernier = 0.0443081
+vernier = 0.0590774
+Gmin = 3.71117e-21
+vernier = 0.0787699
+vernier = 0.0393849
+Gmin = 3.28459e-21
+vernier = 0.0525132
+Gmin = 2.92061e-21
+vernier = 0.0700176
+vernier = 0.0933568
+vernier = 0.0466784
+vernier = 0.0233392
+Gmin = 2.57179e-21
+vernier = 0.0311189
+Gmin = 2.40311e-21
+vernier = 0.0414919
+vernier = 0.0553225
+Gmin = 2.15091e-21
+vernier = 0.0276613
+vernier = 0.0368817
+Gmin = 2.01243e-21
+vernier = 0.0491756
+vernier = 0.0245878
+Gmin = 1.86999e-21
+vernier = 0.0327837
+vernier = 0.0437116
+Gmin = 1.72928e-21
+vernier = 0.0582821
+Gmin = 1.52354e-21
+vernier = 0.0777094
+vernier = 0.0388547
+Gmin = 1.36367e-21
+vernier = 0.0518063
+vernier = 0.0259031
+vernier = 0.0345375
+Gmin = 1.28537e-21
+vernier = 0.04605
+Gmin = 1.15948e-21
+vernier = 0.0614
+vernier = 0.0818666
+vernier = 0.0409333
+Gmin = 1.02648e-21
+Terminal Gmin changed to 1e-22
+vernier = 0.0545777
+Gmin = 9.43001e-22
+vernier = 0.0727703
+Gmin = 8.05256e-22
+vernier = 0.0970271
+vernier = 0.0485135
+Gmin = 7.09755e-22
+vernier = 0.0646847
+vernier = 0.0323423
+vernier = 0.0431231
+Gmin = 6.53177e-22
+vernier = 0.0574975
+vernier = 0.0287487
+Gmin = 5.93132e-22
+vernier = 0.0383316
+Gmin = 5.4562e-22
+vernier = 0.0511088
+vernier = 0.0681451
+Gmin = 4.76053e-22
+vernier = 0.0908601
+vernier = 0.0454301
+Gmin = 4.27683e-22
+vernier = 0.0605734
+vernier = 0.0807645
+vernier = 0.0403823
+Gmin = 3.8303e-22
+vernier = 0.053843
+vernier = 0.0269215
+Gmin = 3.57015e-22
+vernier = 0.0358953
+vernier = 0.0478604
+Gmin = 3.24337e-22
+vernier = 0.0638139
+vernier = 0.0850851
+Gmin = 2.78687e-22
+vernier = 0.0425426
+vernier = 0.0567234
+Gmin = 2.53395e-22
+vernier = 0.0756312
+vernier = 0.100842
+Gmin = 2.11753e-22
+vernier = 0.0504208
+vernier = 0.0672277
+vernier = 0.0336138
+Gmin = 1.98869e-22
+vernier = 0.0448184
+Gmin = 1.79886e-22
+vernier = 0.0597579
+vernier = 0.0796772
+vernier = 0.0398386
+Gmin = 1.59767e-22
+vernier = 0.0531181
+Gmin = 1.41871e-22
+vernier = 0.0708241
+vernier = 0.0354121
+Gmin = 1.28792e-22
+vernier = 0.0472161
+vernier = 0.0629548
+vernier = 0.0314774
+Gmin = 1.18168e-22
+vernier = 0.0419698
+vernier = 0.0559598
+Gmin = 1.06919e-22
+Terminal Gmin changed to 1e-23
+Gmin = 9.56724e-23
+vernier = 0.074613
+vernier = 0.099484
+Gmin = 7.8449e-23
+vernier = 0.132645
+vernier = 0.0663226
+vernier = 0.0331613
+Gmin = 6.55375e-23
+vernier = 0.0442151
+Gmin = 5.93611e-23
+vernier = 0.0589534
+vernier = 0.0294767
+Gmin = 5.43664e-23
+vernier = 0.0393023
+vernier = 0.052403
+Gmin = 4.89447e-23
+vernier = 0.0698707
+vernier = 0.0931609
+Gmin = 4.14596e-23
+vernier = 0.0465804
+vernier = 0.0621072
+Gmin = 3.76459e-23
+vernier = 0.0828096
+vernier = 0.110413
+Gmin = 3.05696e-23
+vernier = 0.0552064
+vernier = 0.0736085
+Gmin = 2.65433e-23
+vernier = 0.0981447
+vernier = 0.0490723
+Gmin = 2.33599e-23
+vernier = 0.0654298
+vernier = 0.0327149
+Gmin = 2.13618e-23
+vernier = 0.0436198
+vernier = 0.0218099
+vernier = 0.0290799
+Gmin = 2.03236e-23
+vernier = 0.0387732
+Gmin = 1.86329e-23
+vernier = 0.0516975
+vernier = 0.06893
+Gmin = 1.61115e-23
+vernier = 0.0919067
+vernier = 0.0459533
+Gmin = 1.43756e-23
+vernier = 0.0612711
+vernier = 0.0816948
+Gmin = 1.2103e-23
+vernier = 0.108926
+vernier = 0.0544632
+Gmin = 1.04352e-23
+vernier = 0.0726176
+Terminal Gmin changed to 1e-24
+vernier = 0.0363088
+Gmin = 9.49398e-24
+vernier = 0.0484117
+Gmin = 8.51928e-24
+vernier = 0.0645489
+vernier = 0.0322745
+vernier = 0.0430326
+Gmin = 7.88325e-24
+vernier = 0.0573768
+vernier = 0.0286884
+Gmin = 7.23666e-24
+vernier = 0.0382512
+vernier = 0.0510016
+Gmin = 6.60579e-24
+vernier = 0.0255008
+Gmin = 6.16053e-24
+vernier = 0.034001
+vernier = 0.0453347
+Gmin = 5.59737e-24
+vernier = 0.0604462
+vernier = 0.0302231
+vernier = 0.0402975
+Gmin = 5.2179e-24
+vernier = 0.05373
+Gmin = 4.64254e-24
+vernier = 0.0716399
+vernier = 0.03582
+vernier = 0.0477599
+Gmin = 4.2785e-24
+vernier = 0.0636799
+vernier = 0.03184
+Gmin = 3.89106e-24
+vernier = 0.0424533
+vernier = 0.0566043
+Gmin = 3.51661e-24
+vernier = 0.0754724
+Gmin = 2.98553e-24
+vernier = 0.10063
+vernier = 0.0503149
+Gmin = 2.52402e-24
+vernier = 0.0670866
+vernier = 0.0335433
+Gmin = 2.2934e-24
+vernier = 0.0447244
+vernier = 0.0223622
+Gmin = 2.16916e-24
+vernier = 0.0298162
+vernier = 0.039755
+Gmin = 1.99416e-24
+vernier = 0.0530066
+vernier = 0.0265033
+vernier = 0.0353377
+Gmin = 1.87504e-24
+vernier = 0.047117
+Gmin = 1.69231e-24
+vernier = 0.0628226
+vernier = 0.0314113
+Gmin = 1.5591e-24
+vernier = 0.0418817
+vernier = 0.0558423
+Gmin = 1.38563e-24
+vernier = 0.0744564
+vernier = 0.0372282
+vernier = 0.0496376
+Gmin = 1.27096e-24
+vernier = 0.0248188
+vernier = 0.0330917
+Gmin = 1.20217e-24
+vernier = 0.0441223
+vernier = 0.0220611
+Gmin = 1.1286e-24
+vernier = 0.0294148
+vernier = 0.0392198
+Gmin = 1.0476e-24
+vernier = 0.052293
+Terminal Gmin changed to 1e-25
+vernier = 0.0261465
+Gmin = 9.94454e-25
+vernier = 0.034862
+vernier = 0.0464827
+Gmin = 9.15095e-25
+vernier = 0.0619769
+Gmin = 7.99817e-25
+vernier = 0.0309884
+vernier = 0.0413179
+Gmin = 7.4618e-25
+vernier = 0.0550905
+vernier = 0.073454
+Gmin = 6.54498e-25
+vernier = 0.0979386
+Gmin = 5.29501e-25
+vernier = 0.130585
+vernier = 0.0652924
+Gmin = 4.46992e-25
+vernier = 0.0870565
+vernier = 0.0435283
+vernier = 0.0580377
+Gmin = 4.05535e-25
+vernier = 0.0290188
+vernier = 0.0386918
+Gmin = 3.80006e-25
+vernier = 0.051589
+vernier = 0.0687853
+Gmin = 3.36086e-25
+vernier = 0.0343927
+vernier = 0.0458569
+Gmin = 3.12941e-25
+vernier = 0.0611425
+vernier = 0.0305712
+vernier = 0.0407616
+Gmin = 2.91491e-25
+vernier = 0.0543489
+Gmin = 2.59002e-25
+vernier = 0.0724651
+vernier = 0.0362326
+vernier = 0.0483101
+Gmin = 2.3847e-25
+vernier = 0.0644134
+vernier = 0.0322067
+Gmin = 2.14923e-25
+vernier = 0.0429423
+Gmin = 1.95221e-25
+vernier = 0.0572563
+vernier = 0.0763418
+vernier = 0.0381709
+Gmin = 1.7589e-25
+vernier = 0.0508945
+vernier = 0.0678593
+Gmin = 1.55817e-25
+vernier = 0.090479
+vernier = 0.0452395
+Gmin = 1.38495e-25
+vernier = 0.0603194
+vernier = 0.0804258
+Gmin = 1.18952e-25
+vernier = 0.0402129
+Gmin = 1.0659e-25
+vernier = 0.0536172
+Terminal Gmin changed to 1e-26
+Gmin = 9.58193e-26
+vernier = 0.0714895
+vernier = 0.0953194
+Gmin = 7.92186e-26
+vernier = 0.0476597
+vernier = 0.0635462
+vernier = 0.0317731
+Gmin = 7.46541e-26
+vernier = 0.0423641
+Gmin = 6.78979e-26
+vernier = 0.0564855
+vernier = 0.075314
+Gmin = 5.79312e-26
+vernier = 0.037657
+vernier = 0.0502093
+Gmin = 5.32492e-26
+vernier = 0.0669457
+vernier = 0.0334729
+Gmin = 4.79951e-26
+vernier = 0.0446305
+vernier = 0.0595073
+Gmin = 4.31532e-26
+vernier = 0.0297536
+vernier = 0.0396715
+Gmin = 4.03703e-26
+vernier = 0.0528953
+vernier = 0.0705271
+Gmin = 3.55944e-26
+vernier = 0.0352636
+vernier = 0.0470181
+Gmin = 3.25136e-26
+vernier = 0.0626907
+Gmin = 2.8374e-26
+vernier = 0.0835876
+vernier = 0.0417938
+Gmin = 2.49285e-26
+vernier = 0.0557251
+vernier = 0.0743001
+Gmin = 2.16586e-26
+vernier = 0.03715
+vernier = 0.0495334
+Gmin = 2.00526e-26
+vernier = 0.0660445
+vernier = 0.0330222
+Gmin = 1.78792e-26
+vernier = 0.0440296
+Gmin = 1.62009e-26
+vernier = 0.0587062
+vernier = 0.0782749
+Gmin = 1.37375e-26
+vernier = 0.0391374
+vernier = 0.0521832
+Gmin = 1.25052e-26
+vernier = 0.0695776
+Gmin = 1.07063e-26
+vernier = 0.0927702
+vernier = 0.0463851
+Terminal Gmin changed to 1e-27
+Gmin = 9.87744e-27
+vernier = 0.0618468
+vernier = 0.0309234
+Gmin = 9.11132e-27
+vernier = 0.0412312
+vernier = 0.0549749
+Gmin = 8.16075e-27
+vernier = 0.0732998
+vernier = 0.097733
+Gmin = 6.85715e-27
+vernier = 0.0488665
+vernier = 0.0651553
+vernier = 0.0325777
+Gmin = 6.2993e-27
+vernier = 0.0434369
+Gmin = 5.73093e-27
+vernier = 0.0579158
+vernier = 0.0772211
+Gmin = 4.91093e-27
+vernier = 0.0386105
+vernier = 0.0514807
+Gmin = 4.47602e-27
+vernier = 0.0686409
+Gmin = 3.84008e-27
+vernier = 0.0915212
+vernier = 0.0457606
+vernier = 0.0610141
+Gmin = 3.4667e-27
+vernier = 0.0813522
+vernier = 0.10847
+Gmin = 2.8583e-27
+vernier = 0.0542348
+vernier = 0.072313
+Gmin = 2.53233e-27
+vernier = 0.0964173
+vernier = 0.0482087
+Gmin = 2.26028e-27
+vernier = 0.0642782
+vernier = 0.0857042
+vernier = 0.0428521
+Gmin = 1.98969e-27
+vernier = 0.0571361
+Gmin = 1.75113e-27
+vernier = 0.0761815
+vernier = 0.101575
+vernier = 0.0507877
+Gmin = 1.48722e-27
+vernier = 0.0677169
+vernier = 0.0338584
+Gmin = 1.3501e-27
+vernier = 0.0451446
+vernier = 0.0601927
+Gmin = 1.21242e-27
+vernier = 0.080257
+Gmin = 1.01878e-27
+Terminal Gmin changed to 1e-28
+vernier = 0.0401285
+vernier = 0.0535046
+Gmin = 9.43766e-28
+vernier = 0.0713395
+Gmin = 8.04855e-28
+vernier = 0.0951193
+vernier = 0.0475596
+Gmin = 7.0702e-28
+vernier = 0.0634128
+vernier = 0.0845504
+Gmin = 5.9171e-28
+vernier = 0.0422752
+vernier = 0.0563669
+Gmin = 5.34614e-28
+vernier = 0.0751559
+vernier = 0.0375779
+Gmin = 4.78015e-28
+vernier = 0.0501039
+vernier = 0.0668052
+Gmin = 4.24256e-28
+vernier = 0.0890736
+vernier = 0.0445368
+Gmin = 3.69592e-28
+vernier = 0.0593824
+Gmin = 3.23659e-28
+vernier = 0.0791765
+vernier = 0.0395882
+vernier = 0.0527843
+Gmin = 2.92404e-28
+vernier = 0.0703791
+vernier = 0.0351895
+Gmin = 2.64444e-28
+vernier = 0.0469194
+vernier = 0.0234597
+Gmin = 2.47271e-28
+vernier = 0.0312796
+vernier = 0.0417061
+Gmin = 2.28448e-28
+vernier = 0.0556081
+vernier = 0.027804
+Gmin = 2.07388e-28
+vernier = 0.0370721
+Gmin = 1.91298e-28
+vernier = 0.0494294
+vernier = 0.0659058
+Gmin = 1.67652e-28
+vernier = 0.0878744
+vernier = 0.0439372
+Gmin = 1.47913e-28
+vernier = 0.0585829
+vernier = 0.0292915
+Gmin = 1.35541e-28
+vernier = 0.0390553
+vernier = 0.0520737
+Gmin = 1.22794e-28
+vernier = 0.0694316
+vernier = 0.0347158
+Gmin = 1.1168e-28
+vernier = 0.0462877
+vernier = 0.0617169
+Gmin = 0
+Terminal Gmin changed to 1e-29
+vernier = 0.0308585
+vernier = 0.0411446
+Gmin = 9.41498e-29
+vernier = 0.0548595
+vernier = 0.0731459
+Gmin = 8.26269e-29
+vernier = 0.036573
+vernier = 0.0487639
+Gmin = 7.56767e-29
+vernier = 0.0650186
+Gmin = 6.54481e-29
+vernier = 0.0866914
+vernier = 0.0433457
+Gmin = 5.75342e-29
+vernier = 0.0577943
+vernier = 0.077059
+Gmin = 4.93179e-29
+vernier = 0.102745
+vernier = 0.0513727
+vernier = 0.0256863
+Gmin = 4.53966e-29
+vernier = 0.0342484
+vernier = 0.0456646
+Gmin = 4.14227e-29
+vernier = 0.0608861
+vernier = 0.0811814
+Gmin = 3.58391e-29
+vernier = 0.108242
+vernier = 0.0541209
+Gmin = 3.07226e-29
+vernier = 0.0721612
+vernier = 0.0962149
+Gmin = 2.58843e-29
+vernier = 0.0481075
+Gmin = 2.27043e-29
+vernier = 0.0641433
+vernier = 0.0855243
+Gmin = 1.89628e-29
+vernier = 0.0427622
+vernier = 0.0570162
+Gmin = 1.71131e-29
+vernier = 0.0760216
+vernier = 0.0380108
+Gmin = 1.55709e-29
+vernier = 0.050681
+vernier = 0.0675747
+Gmin = 1.3601e-29
+vernier = 0.0900996
+vernier = 0.0450498
+Gmin = 1.1962e-29
+vernier = 0.0600664
+vernier = 0.0800885
+Gmin = 1.02806e-29
+Terminal Gmin changed to 1e-30
+vernier = 0.106785
+Gmin = 8.65919e-30
+vernier = 0.0533923
+vernier = 0.0711897
+Gmin = 7.75319e-30
+vernier = 0.0949196
+vernier = 0.126559
+Gmin = 6.10927e-30
+vernier = 0.0632797
+vernier = 0.0316399
+Gmin = 5.56119e-30
+vernier = 0.0421865
+vernier = 0.0562486
+Gmin = 5.02921e-30
+vernier = 0.0749981
+Gmin = 4.27405e-30
+vernier = 0.0999975
+vernier = 0.0499987
+Gmin = 3.66179e-30
+vernier = 0.066665
+vernier = 0.0888866
+Gmin = 3.09558e-30
+vernier = 0.118515
+vernier = 0.0592577
+Gmin = 2.59674e-30
+vernier = 0.0790103
+vernier = 0.105347
+Gmin = 2.15283e-30
+vernier = 0.0526735
+vernier = 0.0702313
+Gmin = 1.91392e-30
+vernier = 0.0936417
+vernier = 0.124856
+Gmin = 1.5332e-30
+vernier = 0.0624278
+vernier = 0.0832371
+vernier = 0.0416185
+Gmin = 1.41866e-30
+vernier = 0.0554914
+vernier = 0.0277457
+Gmin = 1.31495e-30
+vernier = 0.0369942
+vernier = 0.0493256
+Gmin = 1.19748e-30
+vernier = 0.0657675
+Gmin = 1.03391e-30
+vernier = 0.08769
+vernier = 0.043845
+Terminal Gmin changed to 1e-31
+Gmin = 9.68448e-31
+vernier = 0.05846
+vernier = 0.02923
+Gmin = 8.74861e-31
+vernier = 0.0389733
+Gmin = 8.01724e-31
+vernier = 0.0519644
+vernier = 0.0692858
+Gmin = 6.92721e-31
+vernier = 0.0923811
+vernier = 0.0461905
+Gmin = 6.10751e-31
+vernier = 0.0615874
+vernier = 0.0821165
+Gmin = 5.18307e-31
+vernier = 0.0410582
+vernier = 0.0547443
+Gmin = 4.69655e-31
+vernier = 0.0729924
+vernier = 0.0364962
+Gmin = 4.25087e-31
+vernier = 0.0486616
+vernier = 0.0648821
+Gmin = 3.75927e-31
+vernier = 0.032441
+vernier = 0.0432547
+Gmin = 3.45873e-31
+vernier = 0.0576729
+Gmin = 3.05124e-31
+vernier = 0.0768972
+vernier = 0.0384486
+vernier = 0.0512648
+Gmin = 2.79528e-31
+vernier = 0.0683531
+Gmin = 2.39966e-31
+vernier = 0.0911374
+vernier = 0.0455687
+vernier = 0.0607582
+Gmin = 2.15117e-31
+vernier = 0.081011
+vernier = 0.0405055
+Gmin = 1.94528e-31
+vernier = 0.0540073
+vernier = 0.0720097
+vernier = 0.0360049
+Gmin = 1.76103e-31
+vernier = 0.0480065
+Gmin = 1.58166e-31
+vernier = 0.0640086
+vernier = 0.0853448
+Gmin = 1.32151e-31
+vernier = 0.0426724
+vernier = 0.0568965
+Gmin = 1.20965e-31
+vernier = 0.075862
+vernier = 0.037931
+Gmin = 1.10088e-31
+vernier = 0.0505747
+vernier = 0.0674329
+vernier = 0.0337164
+Gmin = 1.00394e-31
+Terminal Gmin changed to 1e-32
+vernier = 0.0449552
+Gmin = 9.30938e-32
+vernier = 0.0599403
+vernier = 0.0299701
+Gmin = 8.67262e-32
+vernier = 0.0399602
+vernier = 0.0532802
+Gmin = 7.74928e-32
+vernier = 0.0710403
+vernier = 0.0355201
+vernier = 0.0473602
+Gmin = 7.13606e-32
+vernier = 0.0631469
+Gmin = 6.22138e-32
+vernier = 0.0841958
+vernier = 0.0420979
+Gmin = 5.57515e-32
+vernier = 0.0561305
+vernier = 0.0748407
+Gmin = 4.76149e-32
+vernier = 0.0997876
+vernier = 0.0498938
+Gmin = 4.15627e-32
+vernier = 0.066525
+vernier = 0.0332625
+vernier = 0.04435
+Gmin = 3.85266e-32
+vernier = 0.0591333
+Gmin = 3.37571e-32
+vernier = 0.0788444
+vernier = 0.105126
+Gmin = 2.70668e-32
+vernier = 0.0525629
+vernier = 0.0700839
+Gmin = 2.42762e-32
+vernier = 0.0934452
+vernier = 0.0467226
+vernier = 0.0233613
+Gmin = 2.21276e-32
+vernier = 0.0311484
+Gmin = 2.0675e-32
+vernier = 0.0415312
+vernier = 0.0553749
+Gmin = 1.85033e-32
+vernier = 0.0738332
+vernier = 0.0369166
+vernier = 0.0184583
+Gmin = 1.68076e-32
+vernier = 0.024611
+Gmin = 1.5929e-32
+vernier = 0.0328147
+vernier = 0.0437529
+Gmin = 1.45902e-32
+vernier = 0.0583372
+vernier = 0.077783
+Gmin = 1.26997e-32
+vernier = 0.103711
+vernier = 0.0518553
+Gmin = 1.10966e-32
+vernier = 0.0691404
+Terminal Gmin changed to 1e-33
+vernier = 0.0345702
+vernier = 0.0172851
+Gmin = 1.00979e-32
+vernier = 0.00864255
+vernier = 0.00432127
+vernier = 0.00216064
+vernier = 0.00108032
+vernier = 0.000540159
+vernier = 0.000405119
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 9.38046 s.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+vernier = 0.5
+vernier = 0.25
+Gmin = 1.19085e-14
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 10.2273%
+Source Step = 10.6534%
+Source Step = 11.1269%
+Source Step = 11.6004%
+Source Step = 12.0739%
+Source Step = 12.2869%
+Source Step = 12.4053%
+Source Step = 12.5237%
+Source Step = 12.642%
+Source Step = 12.7604%
+vernier = 0.00585938
+Source Step = 12.9084%
+Source Step = 13.0859%
+Source Step = 13.1392%
+Source Step = 13.1836%
+Source Step = 13.228%
+Source Step = 13.2724%
+Source Step = 13.3168%
+vernier = 0.00219727
+Source Step = 13.3767%
+Source Step = 13.4433%
+Source Step = 13.5099%
+Source Step = 13.5764%
+Source Step = 13.643%
+vernier = 0.0032959
+Source Step = 13.7296%
+Source Step = 13.8295%
+Source Step = 13.9293%
+Source Step = 14.0292%
+Source Step = 14.1291%
+vernier = 0.00494385
+Source Step = 14.2539%
+Source Step = 14.4037%
+Source Step = 14.5273%
+Source Step = 14.5648%
+Source Step = 14.6022%
+Source Step = 14.6397%
+Source Step = 14.6772%
+Source Step = 14.7146%
+vernier = 0.00185394
+Source Step = 14.7708%
+Source Step = 14.827%
+Source Step = 14.8831%
+Source Step = 14.9393%
+Source Step = 14.9955%
+vernier = 0.00278091
+Source Step = 15.077%
+Source Step = 15.1612%
+Source Step = 15.2455%
+Source Step = 15.3298%
+Source Step = 15.414%
+vernier = 0.00417137
+Source Step = 15.532%
+Source Step = 15.6363%
+Source Step = 15.6679%
+Source Step = 15.6995%
+Source Step = 15.7311%
+Source Step = 15.7627%
+Source Step = 15.7943%
+vernier = 0.00156426
+Source Step = 15.8417%
+Source Step = 15.8891%
+Source Step = 15.9365%
+Source Step = 15.9839%
+Source Step = 16.0313%
+vernier = 0.0023464
+Source Step = 16.1001%
+Source Step = 16.1712%
+Source Step = 16.2423%
+Source stepping failed
+
+Pseudo Transient succeeded in finding the operating point at 80.0272 s.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 51.5152%
+Source Step = 59.0909%
+Source Step = 66.6667%
+Source Step = 74.2424%
+Source Step = 81.8182%
+vernier = 0.375
+Source Step = 90.5303%
+Source Step = 94.2945%
+Source Step = 95.0047%
+Source Step = 95.715%
+Source Step = 96.4252%
+Source Step = 97.1354%
+vernier = 0.0351563
+Source Step = 97.9877%
+Source Step = 99.053%
+Source stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Terminal Gmin changed to 1e-16
+Gmin = 1.37296e-16
+Terminal Gmin changed to 1e-17
+Gmin = 2.30344e-17
+vernier = 0.5
+vernier = 0.666667
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 42.4242%
+Source Step = 50%
+Source Step = 57.5758%
+Source Step = 65.1515%
+Source Step = 72.7273%
+vernier = 0.375
+Source Step = 80.1136%
+Source Step = 82.9545%
+Source Step = 85.7955%
+Source Step = 88.6364%
+Source Step = 91.4773%
+vernier = 0.140625
+Source Step = 94.4602%
+Source Step = 98.7216%
+Source Step = 99.6392%
+Source Step = 100%
+Source Step = 100%
+Starting source stepping with srcstepmethod=0
+Could not converge to DC with sources off!
+Pseudo Transient failed in finding the operating point at 3.70583 s.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Terminal Gmin changed to 1e-14
+Gmin = 4.54274e-14
+Terminal Gmin changed to 1e-15
+Gmin = 7.62146e-15
+Gmin = 0
+Terminal Gmin changed to 1e-16
+Gmin = 1.37296e-16
+Terminal Gmin changed to 1e-17
+Gmin = 2.30344e-17
+Terminal Gmin changed to 1e-18
+vernier = 0.5
+vernier = 0.25
+Gmin = 1.0447e-17
+vernier = 0.333333
+vernier = 0.166667
+vernier = 0.0833333
+Gmin = 6.32346e-18
+vernier = 0.111111
+Gmin = 4.97375e-18
+vernier = 0.148148
+vernier = 0.074074
+Gmin = 4.10537e-18
+vernier = 0.0987653
+vernier = 0.131687
+Gmin = 3.11547e-18
+vernier = 0.175583
+vernier = 0.0877914
+vernier = 0.117055
+Gmin = 2.54518e-18
+vernier = 0.0585276
+vernier = 0.0780367
+Gmin = 2.19145e-18
+vernier = 0.104049
+Gmin = 1.7499e-18
+vernier = 0.138732
+vernier = 0.184976
+vernier = 0.0924879
+Gmin = 1.35859e-18
+vernier = 0.123317
+vernier = 0.0616586
+Gmin = 1.13167e-18
+vernier = 0.0822114
+Terminal Gmin changed to 1e-19
+Gmin = 9.76364e-19
+vernier = 0.109615
+vernier = 0.146154
+Gmin = 7.53482e-19
+vernier = 0.0730768
+vernier = 0.0974357
+Gmin = 6.32805e-19
+vernier = 0.129914
+Gmin = 4.74433e-19
+vernier = 0.0649571
+vernier = 0.0866095
+Gmin = 4.14824e-19
+vernier = 0.115479
+vernier = 0.153972
+Gmin = 3.10662e-19
+vernier = 0.205296
+Gmin = 1.97812e-19
+vernier = 0.273728
+vernier = 0.136864
+vernier = 0.182486
+vernier = 0.0912428
+Gmin = 1.63456e-19
+vernier = 0.121657
+vernier = 0.0608285
+Gmin = 1.34472e-19
+vernier = 0.0811047
+Gmin = 1.12229e-19
+vernier = 0.10814
+Terminal Gmin changed to 1e-20
+Gmin = 9.06617e-20
+vernier = 0.144186
+vernier = 0.192248
+vernier = 0.096124
+Gmin = 6.81046e-20
+vernier = 0.128165
+vernier = 0.0640826
+Gmin = 5.58874e-20
+vernier = 0.0854435
+Gmin = 4.61986e-20
+vernier = 0.113925
+vernier = 0.0569623
+vernier = 0.0759497
+Gmin = 4.03079e-20
+vernier = 0.101266
+vernier = 0.0506331
+Gmin = 3.38285e-20
+vernier = 0.0675108
+Gmin = 2.92162e-20
+vernier = 0.0900144
+vernier = 0.120019
+Gmin = 2.30064e-20
+vernier = 0.0600096
+vernier = 0.0800128
+Gmin = 2.03211e-20
+vernier = 0.106684
+vernier = 0.142245
+Gmin = 1.55526e-20
+vernier = 0.18966
+Gmin = 1.02421e-20
+vernier = 0.25288
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 40.1515%
+Source Step = 47.7273%
+Source Step = 55.303%
+Source Step = 58.1439%
+Source Step = 60.0379%
+Source Step = 61.9318%
+Source Step = 63.8258%
+Source Step = 65.7197%
+vernier = 0.09375
+Source Step = 68.1818%
+Source Step = 71.0227%
+Source Step = 73.8636%
+Source Step = 76.7045%
+Source Step = 79.5455%
+vernier = 0.140625
+Source Step = 83.0966%
+Source Step = 87.358%
+Source Step = 91.6193%
+vernier = 0.0351563
+Source Step = 91.9123%
+Source Step = 92.1786%
+Source Step = 92.445%
+Source Step = 92.7113%
+Source Step = 92.9776%
+vernier = 0.0131836
+Source Step = 93.2706%
+Source Step = 93.6701%
+Source Step = 94.0696%
+Source Step = 94.4691%
+Source Step = 94.8686%
+vernier = 0.0197754
+Source Step = 95.2881%
+Source Step = 95.8873%
+Source Step = 96.4866%
+Source Step = 97.0858%
+Source Step = 97.6851%
+Source Step = 98.2844%
+vernier = 0.0296631
+Source Step = 99.1832%
+Source Step = 100%
+vernier = 0.00741577
+Source Step = 99.217%
+Source Step = 99.4417%
+Source Step = 99.6664%
+Source Step = 99.8911%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point at 2.66016 s.
+
+Date: Wed Apr  8 22:50:42 2020
+Total elapsed time: 12.320 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1624645
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 40920
+matrix size = 21
+fillins = 38
+solver = Normal
+Matrix Compiler1: 5.42 KB object code size  0.6/0.4/[0.3]
+Matrix Compiler2: 3.08 KB object code size  0.2/0.3/[0.2]
+
